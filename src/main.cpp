@@ -28,8 +28,8 @@ const char* ntpServer = "time.apple.com";
 const long gmtOffset_sec = -18000; // EST
 
 // DST offset (on or off really...)
-//const int daylightOffset_sec = 3600;
-const int daylightOffset_sec = 0;
+const int daylightOffset_sec = 3600;
+//const int daylightOffset_sec = 0;
 
 
 const int led=13;

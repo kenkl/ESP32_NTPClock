@@ -4,3 +4,4 @@
 .vscode/launch.json
 .vscode/ipch
 src/wificreds.h
+.DS_Store
